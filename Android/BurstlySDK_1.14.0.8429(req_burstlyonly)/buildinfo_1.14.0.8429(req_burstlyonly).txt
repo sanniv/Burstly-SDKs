@@ -1,0 +1,25 @@
+build: req_burstlyonly
+version: 1.14.0.8429
+jar: BurstlySDK_1.14.0.8429(req_burstlyonly).jar
+features:
+	core
+	apptracking
+	currency
+	debug
+	dtracker
+	networks
+	ormma
+	burstly
+libs:
+	com.h2.tinyspring-tinyspring-1.0.1.jar
+	jackson-core-asl-1.9.3.jar
+	jackson-mapper-asl-1.9.3.jar
+servers:
+	req.appads.com
+	req1.appads.com
+	req2.appads.com
+	req3.appads.com
+	lv.appads.com
+	lv1.appads.com
+	lv2.appads.com
+	lv3.appads.com
