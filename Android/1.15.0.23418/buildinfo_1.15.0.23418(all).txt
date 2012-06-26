@@ -1,0 +1,39 @@
+build: all
+version: 1.15.0.23418
+jar: BurstlySDK_1.15.0.23418(all).jar
+features:
+	core
+	apptracking
+	currency
+	debug
+	dtracker
+	networks
+	ormma
+	admob
+	burstly
+	greystripe
+	inmobi
+	ivdopia
+	jumptap
+	medialets
+	millennial
+libs:
+	GoogleAdMobAdsSdk-6.0.1.jar
+	InMobiAndroidSDK_3.5.0b.jar
+	JTAdTag_2.1.11.1.jar
+	MMAdView_4.5.2.jar
+	MedialetsUniversalSDK-Android_2.2.9.jar
+	com.h2.tinyspring-tinyspring-1.0.1-with-android-logging.jar
+	gssdk_1.6.1.jar
+	iVdopia_Android_SDK_v2.0.1.jar
+	jackson-core-asl-1.9.3.jar
+	jackson-mapper-asl-1.9.3.jar
+servers:
+	req.appads.com
+	req1.appads.com
+	req2.appads.com
+	req3.appads.com
+	lv.appads.com
+	lv1.appads.com
+	lv2.appads.com
+	lv3.appads.com
